@@ -129,5 +129,6 @@ The fitted exponential-quadratic function approximates the shape of the empirica
 
 ## Author Notes
 
-This project is part of an advanced mathematics/statistics course and demonstrates practical application of curve fitting techniques to real-world air quality data.
+This project is part of an UCS654 course Predictive Analysis Using Statistics for practical application of curve fitting techniques to real-world air quality data.
+
 
